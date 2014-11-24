@@ -58,7 +58,13 @@ div#shellcontent {
 #u_2a_0,
 #u_2f_0,
 #u_2i_0,*/
-[data-adblock-hash]
+[data-adblock-hash],
+#rightCol
 {
 	display: none !important;
+}
+
+#contentArea 
+{
+	width: auto !important;
 }
