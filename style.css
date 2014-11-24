@@ -1,0 +1,64 @@
+/*gmail ads remove*/
+table.Bs.nH.iY > tr > td.Bu.y3,
+div[role="main"].nH > div.nH.g.id > div.nH > div.nH,
+div[role="main"].nH > div.nH.g.id > div.nH > div.AT,
+div.nH.hx > div.nH > div.nH.PS,
+div.aKB > div.a2q
+{
+	display: none !important;
+}
+
+/*youtube ads*/
+#watch7-sidebar-ads,
+div#ad_creative_1,
+#feed-pyv-container
+{
+	display: none !important;
+}
+
+/*google search*/
+div#bottomads,
+div#tvcap,
+div#rhs_block
+{
+	display: none !important;
+}
+
+
+/*yahoo mail*/
+div#slot_mbrec,
+div#slot_MB,
+div#theAd
+{
+	display: none !important;
+}
+div#shellcontent {
+	min-width: 1070px;
+}
+
+/*hotnews.ro*/
+#pageBodyx > div > div.contentFather > div > div.right_side > a,
+#pageBodyx > div > div.contentFather > div > div.center_side > div.center > div:nth-child(12) > div:nth-child(2),
+#pageBodyx > div > div.contentFather > div > div.center_side > div.center > a
+{
+	display: none !important;
+}
+
+/*facebook.com*/
+/*#pagelet_side_ads,
+#u_ps_0_2_0,
+#u_ps_0_2_7,
+#u_ps_0_2_4,
+#u_jsonp_2_2c,
+#u_ps_jsonp_20_2_0,
+#u_ps_jsonp_38_2_8,
+#u_1v_0,
+#u_21_0,
+#u_26_0,
+#u_2a_0,
+#u_2f_0,
+#u_2i_0,*/
+[data-adblock-hash]
+{
+	display: none !important;
+}
