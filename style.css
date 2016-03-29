@@ -11,7 +11,8 @@ div.aKB > div.a2q
 /*youtube ads*/
 #watch7-sidebar-ads,
 div#ad_creative_1,
-#feed-pyv-container
+#feed-pyv-container,
+div#page-container > div#page > div#header
 {
 	display: none !important;
 }
@@ -71,6 +72,7 @@ div#shellcontent {
 }
 
 /*linkedin*/
+<<<<<<< HEAD
 
 #ad-right-top,
 #ad-container,
@@ -83,4 +85,8 @@ div#shellcontent {
 
 #contact-list-container {
 	width: 990px !important;
+=======
+li#ad-container {
+	display: none;
+>>>>>>> origin/master
 }
