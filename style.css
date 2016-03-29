@@ -11,8 +11,7 @@ div.aKB > div.a2q
 /*youtube ads*/
 #watch7-sidebar-ads,
 div#ad_creative_1,
-#feed-pyv-container,
-div#page-container > div#page > div#header
+#feed-pyv-container
 {
 	display: none !important;
 }
@@ -72,21 +71,37 @@ div#shellcontent {
 }
 
 /*linkedin*/
-<<<<<<< HEAD
 
 #ad-right-top,
 #ad-container,
 #ad-unit,
 #aux > div.insights > hr:nth-child(7),
-#right-ad-container
+#right-ad-container,
+#bottom-ads-container,
+#sticky-ads-container,
+#ads-col,
+#topTextAd,
+#control_gen_3,
+#ad-slot-3
+
 {
 	display: none !important;
 }
 
 #contact-list-container {
 	width: 990px !important;
-=======
-li#ad-container {
-	display: none;
->>>>>>> origin/master
+}
+
+#props {
+	height: auto !important;
+}
+
+#props > li.card {
+	display: block !important;
+	width: 275px;
+	margin-top: 10px;
+}
+
+#props > li.card.current {
+	margin-top: 0px;
 }
