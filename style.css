@@ -19,7 +19,8 @@ div#ad_creative_1,
 /*google search*/
 div#bottomads,
 div#tvcap,
-div#rhs_block
+div#rhs_block,
+#pmocntr2
 {
 	display: none !important;
 }
@@ -67,4 +68,19 @@ div#shellcontent {
 #contentArea 
 {
 	width: auto !important;
+}
+
+/*linkedin*/
+
+#ad-right-top,
+#ad-container,
+#ad-unit,
+#aux > div.insights > hr:nth-child(7),
+#right-ad-container
+{
+	display: none !important;
+}
+
+#contact-list-container {
+	width: 990px !important;
 }
